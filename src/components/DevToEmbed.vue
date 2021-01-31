@@ -20,7 +20,7 @@
                     color="teal accent-4"
                     target="_blank"
                     :href="article.url">
-                    <v-icon>external-link</v-icon> Read
+                    Read <v-icon>external-link</v-icon>
                 </v-btn>
             </v-card-actions>
         </v-card>
