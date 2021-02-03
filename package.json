@@ -1,6 +1,7 @@
 {
-  "name": "dev_to_embed",
-  "version": "0.1.0",
+  "author": "Shai Angress",
+  "name": "dev-to-embed-vue",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
