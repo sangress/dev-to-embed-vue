@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-main>
-      <DevToEmbed/>
+      <DevToEmbed userName="venatus"/>
     </v-main>
   </v-app>
 </template>

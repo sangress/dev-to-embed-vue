@@ -31,10 +31,15 @@
 import axios from 'axios';
 
 export default {
+    props: {
+        userName: {
+            type: String,
+            default: 'venatus'
+        }
+    },
     data() {
         return {
-            articles: [],
-            userName: 'venatus'
+            articles: []
         }
     },
 
